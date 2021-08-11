@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{fe497d71-44a1-4847-9eea-ad291e1c4e8b}">
+		<property name="assetPath">
+			<value>Start Grip.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4922083333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{931b03c8-522a-4587-b118-8c45c5b720aa}</destination>
+		</relationship>
+	</object>
+</objects>

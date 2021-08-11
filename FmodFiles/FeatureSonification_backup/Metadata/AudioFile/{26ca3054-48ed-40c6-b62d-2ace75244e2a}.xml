@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{26ca3054-48ed-40c6-b62d-2ace75244e2a}">
+		<property name="assetPath">
+			<value>FSS DistortedNoise.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.9843958333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{931b03c8-522a-4587-b118-8c45c5b720aa}</destination>
+		</relationship>
+	</object>
+</objects>

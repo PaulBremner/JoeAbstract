@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EffectPreset" id="{c2e1515b-fc91-421d-92d8-3922d07bb7c4}">
+		<property name="name">
+			<value>Flat</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e9a79f4b-88ee-4070-b39d-c949971a6e20}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{09b225f7-72ab-4055-8759-ce611a638b1b}</destination>
+		</relationship>
+	</object>
+	<object class="SpatialiserEffect" id="{09b225f7-72ab-4055-8759-ce611a638b1b}">
+		<property name="minimumDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumDistance">
+			<value>0</value>
+		</property>
+		<property name="extentMode">
+			<value>2</value>
+		</property>
+	</object>
+</objects>

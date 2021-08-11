@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{72628cc1-5684-4b0b-a75a-33819782c39d}">
+		<property name="name">
+			<value>Amplitude</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c151ca2c-829f-4885-9832-58f19d7d06e6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b0c8941f-9380-4ce3-9804-027ab470ba74}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b0c8941f-9380-4ce3-9804-027ab470ba74}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
